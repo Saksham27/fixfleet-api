@@ -2,7 +2,7 @@
   "name": "fixfleet-api",
   "version": "1.0.0",
   "description": "Backend service for FixFleet app",
-  "main": "server.mjs",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

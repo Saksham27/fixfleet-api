@@ -1,0 +1,19 @@
+{
+  "name": "fixfleet-api",
+  "version": "1.0.0",
+  "description": "Backend service for FixFleet app",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saksham27/fixfleet-api.git"
+  },
+  "author": "Saksham Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Saksham27/fixfleet-api/issues"
+  },
+  "homepage": "https://github.com/Saksham27/fixfleet-api#readme"
+}

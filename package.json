@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Saksham27/fixfleet-api/issues"
   },
-  "homepage": "https://github.com/Saksham27/fixfleet-api#readme"
+  "homepage": "https://github.com/Saksham27/fixfleet-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

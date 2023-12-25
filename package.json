@@ -2,7 +2,7 @@
   "name": "fixfleet-api",
   "version": "1.0.0",
   "description": "Backend service for FixFleet app",
-  "main": "server.js",
+  "main": "./fixfleet-api/server.js",
   "scripts": {
   },
   "repository": {
